@@ -1,3 +1,3 @@
-# Calculadora-
-Calculadora desenvolvida com html,css e javascript puro.
+# Calculadora para calcula do IMC
+Calculadora desenvolvida com html,css e VANILLA JS.
 
